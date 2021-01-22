@@ -82,9 +82,9 @@
     "screenshot": "screenshot.png",
     "favicon": false,
     "robotsSwitcher": false,
-    "sitemapSwitcher": false,
+    "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": false,
+    "siteUrl": "http://susanclyons.com",
     "cookiesAlert": false,
     "gdpr": false,
     "canonical-url": false
